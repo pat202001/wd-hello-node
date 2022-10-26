@@ -1,4 +1,4 @@
 const hello =()=>{
-console.log(" Hello Developer Iam learning Node js ");
+console.log(" Hello node.js ");
 }
 hello();
